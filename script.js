@@ -11,7 +11,7 @@ $(document).ready(function(){
     });
     // toggle menu/navbar script 
     $('.menu-btn').click(function(){                    //I created this for the purpose of responsiveness
-        $('.navbar .menu').toggleClass("active");       
+        $('.navbar .menu').toggleClass("active");       //use it
         $('.menu-btn i').toggleClass("active");
     });
 });
