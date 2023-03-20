@@ -89,7 +89,7 @@ html{
 
 .home{
     display: flex;
-    background: url("images/cubes_pattern_blue_aqua_abstraction_4k_8k_hd_abstract.jpg");
+    /* background: url("images/cubes_pattern_blue_aqua_abstraction_4k_8k_hd_abstract.jpg"); */
     height: 100vh;
     color: #fff;
     min-height: 500px;
