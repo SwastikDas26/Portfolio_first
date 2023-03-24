@@ -15,3 +15,7 @@ $(document).ready(function(){
         $('.menu-btn i').toggleClass("active");
     });
 });
+
+const background = document.getElementById('Home')
+background.style.background = "url('images/cubes_pattern_blue_aqua_abstraction_4k_8k_hd_abstract-min.jpg')"
+background.style.backgroundSize = "cover"
